@@ -35,7 +35,7 @@ Gosto de aprender fazendo — por isso tenho trabalhado em projetos pessoais par
 
 ## 📈 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gHNocera&show_icons=true&theme=radical)
 
 ---
 
